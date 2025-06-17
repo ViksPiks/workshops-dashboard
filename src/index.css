@@ -23,3 +23,9 @@ ul {
   height: 200px;
   object-fit: cover;
 }
+
+.pagination-state {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
